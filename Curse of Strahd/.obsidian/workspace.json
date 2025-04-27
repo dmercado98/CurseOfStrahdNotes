@@ -11,15 +11,14 @@
             "id": "81e9824ec84939f3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Curse of Strahd/Places/Durst House.md",
-                "bFile": "Curse of Strahd/Places/Durst House.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Kolyan Indirovich Letter.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Durst House"
+              "icon": "lucide-file",
+              "title": "Kolyan Indirovich Letter"
             }
           }
         ]
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kolyan Indirovich Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kolyan Indirovich Letter"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kolyan Indirovich Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Kolyan Indirovich Letter"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kolyan Indirovich Letter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kolyan Indirovich Letter"
             }
           },
           {
@@ -179,13 +181,14 @@
   },
   "active": "81e9824ec84939f3",
   "lastOpenFiles": [
-    "Places/Barovia.md",
-    "Places/Durst House.md",
-    "Places/The Village of Barovia.md",
-    "People/Indirovich Koylan.md",
-    "People/Ireena Kolyana.md",
-    "People/Ismark Koylan.md",
+    "Blood of the Vine.md",
     "Kolyan Indirovich Letter.md",
+    "People/Koylan Indirovich.md",
+    "People/Ismark Kolyanovich.md",
+    "Places/Barovia.md",
+    "Places/The Village of Barovia.md",
+    "Places/Durst House.md",
+    "People/Ireena Kolyana.md",
     "People/Vistani.md",
     "Places",
     "People",

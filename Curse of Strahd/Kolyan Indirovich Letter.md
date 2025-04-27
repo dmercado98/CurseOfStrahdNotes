@@ -1,4 +1,4 @@
-This letter is not in the same writing of [[Indirovich Koylan]].
+This letter is not in the same writing of [[Koylan Indirovich]].
 
 
 

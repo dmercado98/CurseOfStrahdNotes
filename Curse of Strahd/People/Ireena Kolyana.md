@@ -1,1 +1,1 @@
-Daughter of the Mayor [[Indirovich Koylan]]
+Daughter of the Mayor [[Koylan Indirovich]]
