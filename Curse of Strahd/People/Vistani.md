@@ -1,0 +1,1 @@
+They are travelers that can leave [[Barovia]] whenever they please.

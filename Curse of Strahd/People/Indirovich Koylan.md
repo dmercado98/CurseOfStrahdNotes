@@ -1,0 +1,1 @@
+Mayor of [[The Village of Barovia]]. 

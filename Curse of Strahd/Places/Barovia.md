@@ -1,0 +1,1 @@
+The land that Strahd is the king of?? We cannot leave the fog that keeps us in here.
